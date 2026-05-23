@@ -207,14 +207,8 @@ streamlit run app.py
 ```text
 http://127.0.0.1:8000/docs
 ```
-<img width="899" height="395" alt="image" src="https://github.com/user-attachments/assets/0a5721cd-d18e-4a2b-92a5-748b90dae72e" />
-
-
 
 ## Frontend Dashboard
-
-
-<img width="959" height="407" alt="image" src="https://github.com/user-attachments/assets/443c8747-f9c6-4e8e-89b7-1ef6a2f3b860" />
 
 ```text
 http://localhost:8501
@@ -251,10 +245,12 @@ http://localhost:8501
 # 📸 Screenshots
 
 ## Enterprise Dashboard
+<img width="959" height="407" alt="image" src="https://github.com/user-attachments/assets/79a90af8-b93b-4dba-9098-8372cf117e95" />
 
 (Add Streamlit UI screenshot here)
 
 ## Swagger API Docs
+<img width="937" height="407" alt="image" src="https://github.com/user-attachments/assets/85edc887-18f7-4f36-a24a-4c612bf03ff3" />
 
 (Add FastAPI docs screenshot here)
 
