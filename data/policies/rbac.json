@@ -1,0 +1,33 @@
+{
+  "admin": {
+    "accessible_departments": [
+      "finance",
+      "hr",
+      "engineering",
+      "operations"
+    ],
+    "can_access_all": true,
+    "sensitive_operations": true
+  },
+  "finance": {
+    "accessible_departments": [
+      "finance"
+    ],
+    "can_access_all": false,
+    "sensitive_operations": false
+  },
+  "hr": {
+    "accessible_departments": [
+      "hr"
+    ],
+    "can_access_all": false,
+    "sensitive_operations": false
+  },
+  "engineering": {
+    "accessible_departments": [
+      "engineering"
+    ],
+    "can_access_all": false,
+    "sensitive_operations": false
+  }
+}

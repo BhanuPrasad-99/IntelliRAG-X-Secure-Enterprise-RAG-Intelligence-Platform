@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2026-03-14T08:00:00Z",
+    "department": "finance",
+    "event": "Revenue Report Generated",
+    "user_id": "user_2341",
+    "system": "Financial-Analytics",
+    "severity": "Medium",
+    "data_volume": "2.5 GB",
+    "details": "Q4 revenue analysis generated and distributed"
+  },
+  {
+    "timestamp": "2026-03-14T09:30:15Z",
+    "department": "finance",
+    "event": "Budget Allocation Review",
+    "user_id": "user_3456",
+    "system": "Budget-Planning-System",
+    "severity": "High",
+    "details": "Senior finance team reviewed budget allocation for next quarter"
+  },
+  {
+    "timestamp": "2026-03-14T10:45:22Z",
+    "department": "hr",
+    "event": "Employee Onboarding",
+    "user_id": "user_5678",
+    "system": "HRIS-System",
+    "severity": "Low",
+    "details": "New employee profile created and access provisioned"
+  },
+  {
+    "timestamp": "2026-03-14T13:20:08Z",
+    "department": "engineering",
+    "event": "Code Review Approval",
+    "user_id": "user_7890",
+    "system": "Code-Review-Platform",
+    "severity": "Low",
+    "details": "Critical infrastructure code approved for production deployment"
+  }
+]

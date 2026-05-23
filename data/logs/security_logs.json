@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": "2026-03-12T14:32:10Z",
+    "department": "finance",
+    "event": "Failed Login Attempt",
+    "user_id": "user_5432",
+    "system": "Finance-Payroll-API",
+    "severity": "High",
+    "details": "Multiple failed authentication attempts detected"
+  },
+  {
+    "timestamp": "2026-03-12T15:45:22Z",
+    "department": "finance",
+    "event": "Unauthorized Access",
+    "user_id": "user_7821",
+    "system": "Financial-Reports-DB",
+    "severity": "Critical",
+    "details": "Attempt to access Q4 financial reports without authorization"
+  },
+  {
+    "timestamp": "2026-03-12T16:12:08Z",
+    "department": "engineering",
+    "event": "Successful Login",
+    "user_id": "user_1234",
+    "system": "Code-Repository",
+    "severity": "Low",
+    "details": "Authorized login from approved IP address"
+  },
+  {
+    "timestamp": "2026-03-13T09:15:33Z",
+    "department": "hr",
+    "event": "Data Export",
+    "user_id": "user_4567",
+    "system": "HRIS-System",
+    "severity": "Medium",
+    "details": "Employee records exported for payroll processing"
+  }
+]
